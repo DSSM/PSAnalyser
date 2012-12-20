@@ -1,6 +1,6 @@
 Production Services Analyser (PSA)
 ===
-<ul>
+<ol>
   <li>
     Sie wählen eine Teilmenge von ca. 50 Dokumenten aus und identifizieren in dieser typische Relationen aus dem jeweiligen Themenbereich.
   </li>
@@ -16,5 +16,5 @@ Production Services Analyser (PSA)
   <li>
     Sie bewerten Ihren Ansatz, d.h. Sie burteilen Stärken und Schwächen und diskutieren mögliche Verbesserungen Ihres Ansatzes.
   </li>
-</ul>
+</ol>
 
