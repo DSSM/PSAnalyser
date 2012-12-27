@@ -1,0 +1,2 @@
+reutersIn/2286newsML.xml
+reutersIn/2299newsML.xml

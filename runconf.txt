@@ -1,0 +1,16 @@
+Main class: 
+edu.stanford.nlp.pipeline.StanfordCoreNLP
+
+Program Arguments:
+-annotators tokenize,ssplit,pos,lemma,ner,parse,dcoref 
+-file misc/stanford.txt
+-replaceExtension
+-outputDirectory misc
+
+Program Arguments für XML-Dateien
+-annotators tokenize,cleanxml,ssplit,pos,lemma,ner,parse,dcoref
+-filelist reutersIn/000FileList.txt
+-outputDirectory reutersOut
+
+VM Arguments:
+-Xmx2g
